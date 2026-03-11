@@ -1,7 +1,8 @@
-📱 Mobile Development Projects
+## 📱 Mobile Development Projects
+
 A collection of Flutter mobile development projects built as part of my Mobile Development coursework.
 
-📂 Projects
+# 📂 Projects
 🔐 TP1 — Firebase Authentication
 A Flutter application demonstrating user authentication using Firebase.
 Features:
@@ -14,10 +15,10 @@ Logout
 
 Tech Stack: Flutter, Firebase Auth, Cloud Firestore
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 TechnologyUsageFlutterMobile UI FrameworkFirebase AuthUser AuthenticationCloud FirestoreDatabaseDartProgramming Language
 
-🚀 Getting Started
+#🚀 Getting Started
 Prerequisites
 
 Flutter SDK installed
