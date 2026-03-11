@@ -1,32 +1,63 @@
-## 📱 Mobile Development Projects
+# 📱 Flutter Mobile Development Projects
 
-A collection of Flutter mobile development projects built as part of my Mobile Development coursework.
+A collection of Flutter mobile applications developed as part of my **Mobile Development coursework**.  
+These projects demonstrate the integration of **modern mobile technologies**, including authentication, database management, and UI development using Flutter.
 
-# 📂 Projects
-🔐 TP1 — Firebase Authentication
-A Flutter application demonstrating user authentication using Firebase.
-Features:
+---
 
-User Sign Up (First name, Last name, Date of birth, Email, Password)
-User Login with email & password
-Password Reset via email
-User Profile display
-Logout
+## 📂 Projects
 
-Tech Stack: Flutter, Firebase Auth, Cloud Firestore
+### 🔐 TP1 — Firebase Authentication
 
-#🛠️ Tech Stack
-TechnologyUsageFlutterMobile UI FrameworkFirebase AuthUser AuthenticationCloud FirestoreDatabaseDartProgramming Language
+A Flutter application demonstrating **user authentication using Firebase**.
 
-#🚀 Getting Started
-Prerequisites
+#### Features
+- User **Sign Up**  
+  - First name  
+  - Last name  
+  - Date of birth  
+  - Email  
+  - Password
+- **User Login** with email and password
+- **Password Reset** via email
+- **User Profile Display**
+- **Logout functionality**
 
-Flutter SDK installed
-Android Studio or VS Code
-A Firebase project with Auth and Firestore enabled
+#### Tech Stack
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Dart
 
-Run a project
-bash# Navigate to the project folder
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|-----------|------|
+| Flutter | Mobile UI Framework |
+| Firebase Auth | User Authentication |
+| Cloud Firestore | Database |
+| Dart | Programming Language |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Flutter SDK
+- Android Studio **or** VS Code
+- A Firebase project with **Authentication** and **Firestore** enabled
+
+---
+
+### Run the Project
+
+```bash
+# Navigate to the project folder
 cd TP1-Firebase-auth
 
 # Install dependencies
@@ -35,4 +66,7 @@ flutter pub get
 # Run the app
 flutter run
 
-⚠️ You need to add your own google-services.json file inside android/app/ for Firebase to work.
+⚠️ Important:
+You must add your own google-services.json file inside:
+android/app/
+
